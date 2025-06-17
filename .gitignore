@@ -1,0 +1,13 @@
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Compiled binaries
+*.exe
+*.out
+chat
+client
+server
+
+# Build folders
+/build
